@@ -1,0 +1,7 @@
+os
+PyPDF2
+docx
+g4f.client
+g4f
+streamlit
+pandas

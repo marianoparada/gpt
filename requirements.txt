@@ -1,6 +1,8 @@
 os
 docx
+wheel
 g4f.client
 g4f
 streamlit
 pandas
+tempfile

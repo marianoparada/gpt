@@ -1,5 +1,5 @@
-python-docx
-wheel
-g4f.client
-g4f
 streamlit
+wheel
+g4f
+g4f.client
+python-docx

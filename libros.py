@@ -26,7 +26,7 @@ def get_gpt_response(prompt):
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[{"role": "user", "content": prompt+". Recuerda responder en español directamente, sin inluir frase de apertura o de cierre de tu respuesta."}],
-        proxy="http://3.216.133.179:1080",
+        proxy="http://202.55.67.194:80",
     )
     return response.choices[0].message.content
 

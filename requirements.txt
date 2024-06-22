@@ -1,5 +1,4 @@
 streamlit
 wheel
 g4f
-g4f.client
 python-docx

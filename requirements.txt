@@ -2,3 +2,4 @@ streamlit
 wheel
 g4f
 python-docx
+PyPDF2

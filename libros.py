@@ -99,6 +99,6 @@ if st.button("Analizar"):
         st.download_button(
             label="Descargar resumen en Word",
             data=bio.getvalue(),
-            file_name="resumen_libro.docx",
+            file_name=title+"_resumen_libro.docx",
             mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document")
         
